@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorators defaultdir="/WEB-INF/views/common/layouts">
+	<!-- loại trừ url -->
+	<excludes>
+		<!-- */bao-cao/* -->
+		<pattern>*/bieu-do/*</pattern>
+	</excludes>
+	
+	<decorator name="user" page="user.jsp">
+		<!-- khi có đường dẫn này thì sử dụng page user.jsp -->
+		<pattern>/*</pattern>
+	</decorator>
+
+	<decorator name="admin" page="admin.jsp">
+		<!-- khi có đường dẫn này thì sử dụng page admin.jsp -->
+		<pattern>/quan-tri/*</pattern>
+	</decorator>
+
+</decorators>

@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/DiamonShop/Controller/Admin/homeController.java=UTF-8
+encoding//src/main/java/DiamonShop/Controller/cartController.java=UTF-8
+encoding//src/main/java/DiamonShop/Controller/categoryController.java=UTF-8
+encoding//src/main/java/DiamonShop/Controller/userController.java=UTF-8
+encoding//src/main/java/DiamonShop/Dao/BaseDao.java=UTF-8
+encoding//src/main/java/DiamonShop/Dao/ProductDao.java=UTF-8
+encoding//src/main/java/DiamonShop/Dao/cartDao.java=UTF-8
+encoding//src/main/java/DiamonShop/Entity/user.java=UTF-8
+encoding//src/main/java/DiamonShop/Service/Impl/paginateImpl.java=UTF-8
+encoding//src/test/java=UTF-8
